@@ -19,7 +19,7 @@
         <a href="positions.html">Positions/Submisions</a>&nbsp;
         <a href="students.html">Students</a>&nbsp;
         <a href="request.html">Request-a-Move</a>&nbsp;
-        </nav>
+      </nav>
 
   </body>
 </html>
