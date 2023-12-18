@@ -1,0 +1,28 @@
+body{
+  font-family: Verdana, Arial, sans-serif;
+  background: linear-gradient(to bottom, #FFFFFF, #90C7E3);
+  background-repeat: no-repeat;
+  background-color: #90C7E3; 
+}
+
+#wrapper {
+  width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #FFFFFF;
+  min-width: 960px;
+  max-width: 2048px;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+}
+
+#homehero{
+  height: 300px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+#homehero img{
+  max-width: 100%;
+  height: auto;
+}
