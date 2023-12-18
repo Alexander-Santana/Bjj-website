@@ -26,3 +26,8 @@ body{
   max-width: 100%;
   height: auto;
 }
+
+.title{
+  color: mediumblue;
+  font-weight: 1.2em;
+}
