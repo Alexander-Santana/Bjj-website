@@ -20,6 +20,23 @@
         <a href="request.html">Request-Move</a>&nbsp;
       </nav>
 
+      <h1>Request-A-Move</h1>
+
+      <form action="submit_form.php" method="post">
+
+        <label for="content">Your request:</label>
+        <textarea id="content" name="content" required></textarea>
+        
+        <button type="submit">Submit</button>
+      </form>
+
+      <h2>Move request list</h2>
+      <div id="display-section">
+        <?php include 'display_content.php'; ?>
+      </div>
+
+      <p>!!PAGE IS A WORK IN PROGRESS!!</p>
+
 
       <div id="homehero">
         <img src="bjj_homehero.jpg" alt="image of a bjj players hand">

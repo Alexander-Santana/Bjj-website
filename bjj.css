@@ -2,7 +2,6 @@ body{
   font-family: Verdana, Arial, sans-serif;
   background: linear-gradient(to bottom, #FFFFFF, #90C7E3);
   background-repeat: no-repeat;
-  background-color: #90C7E3; 
 }
 
 #wrapper {
@@ -12,7 +11,7 @@ body{
   background-color: #FFFFFF;
   min-width: 960px;
   max-width: 2048px;
-  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
 #homehero {
@@ -33,7 +32,7 @@ body{
 
 .title{
   color: mediumblue;
-  font-weight: 1.2em;
+  font-weight: bold;
 }
 
 footer{
@@ -41,7 +40,7 @@ footer{
   font-size: 10px;
   padding: 1em;
   text-align: center;
-  line-height: 0;
+  line-height: 1;
 }
 
 h1{
